@@ -1,0 +1,23 @@
+{
+  "name": "cpnt201-a3",
+  "version": "1.0.0",
+  "description": "For students to practice with NPM and using tailwind",
+  "main": "\u001b[A\u001b[B",
+  "scripts": {
+    "build":"npx tailwindcss -i ./assets/css/input.css -o ./assets/css/output.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cosmob3/cpnt201-a3.git"
+  },
+  "author": "Bryan Velasco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cosmob3/cpnt201-a3/issues"
+  },
+  "homepage": "https://github.com/cosmob3/cpnt201-a3#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.23"
+  }
+}
