@@ -1,6 +1,7 @@
 # CPNT-201 / CSS Frameworks A-3 / Bryan Velasco
 
 [Github Repo](https://github.com/cosmob3/cpnt201-a3)
+
 [Github Pages](https://cosmob3.github.io/cpnt201-a3/)
 
 **Attributions:**
