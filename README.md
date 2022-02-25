@@ -11,18 +11,18 @@
 TODO: **Work on CSS Frameworks Assignment**
 
 ### NPM Project Setup
-- Properly configured `package.json`
-- `node_modules/` added to `.gitignore`
-- add a tailwind build command to the `scripts`
+- X Properly configured `package.json`
+- X `node_modules/` added to `.gitignore`
+- X add a tailwind build command to the `scripts`
 
 ### Tailwind Configuration 
-- `tailwind.config.js` file added to project
-- at least the following present in your tailwind config.
-  - colors
-  - fonts
-  - screen size breakpoints
-  - spacing
-- `assets/css/main.css` contains tailwind imports
+- X `tailwind.config.js` file added to project
+- X at least the following present in your tailwind config.
+  - X colors
+  - X fonts
+  - X screen size breakpoints
+  - X spacing
+- X `assets/css/main.css` contains tailwind imports
 - `main.css` file or `tailwind.css.config` file used to set up default font sizes
 
 ### Content Styling 
