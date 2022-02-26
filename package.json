@@ -4,7 +4,7 @@
   "description": "For students to practice with NPM and using tailwind",
   "main": "\u001b[A\u001b[B",
   "scripts": {
-    "build":"npx tailwindcss -i ./assets/css/input.css -o ./assets/css/output.css --watch",
+    "build": "npx tailwindcss -i ./assets/css/input.css -o ./assets/css/output.css --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
