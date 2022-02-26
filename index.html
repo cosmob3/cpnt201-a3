@@ -9,23 +9,27 @@
 </head>
 <body>
   <header>
-  <h1 class="font-bold">Installing and Using Tailwind</h1>
+  <h1 class="flex font-bold justify-center p-10 text-5xl">Installing and Using Tailwind</h1>
   </header>
   <main>
-    <section>
-      <img src="./assets/images/electronic-photo.jpg" alt="Photo of optic wire ends" class="w-52">
-      <h2 class="">What is Tailwind?</h2>
-      <p>Tailwind CSS is self-described as a utility first CSS framework. Rather than focusing on the functionality of the item
-      being styled, Tailwind is centered around how it should be displayed. This makes it easier for the developer to test out
-      new styles and change the layout.</p>
+    <section class="flex flex-row">
+      <img src="./assets/images/electronic-photo.jpg" alt="Photo of optic wire ends" class="w-1/2">
+      <div class="flex flex-col text-center items-center self-center">
+        <h2 class="font-bold text-2xl">What is Tailwind?</h2>
+        <p class="text-xl">Tailwind CSS is self-described as a utility first CSS framework. Rather than focusing on the functionality of the item
+        being styled, Tailwind is centered around how it should be displayed. This makes it easier for the developer to test out
+        new styles and change the layout.</p>
+      </div>
     </section>
-    <section>
-      <img src="./assets/images/macbook-bed.jpg" alt="Macbook on a macbook-bed" class="w-52">
-      <h2>Why Use Tailwind?</h2>
-      <p>Since it offers a faster styling process and is a responsive and stable framework, it's here to stay. Tailwind can help
-      you save time and change the way you design websites, and so taking the time to test it out is worthwhile.</p>
+    <section class="flex flex-row">
+      <img src="./assets/images/macbook-bed.jpg" alt="Macbook on a macbook-bed" class="w-1/3">
+      <div class="text-center self-center">
+        <h2 class="font-bold text-2xl">Why Use Tailwind?</h2>
+        <p class="text-xl">Since it offers a faster styling process and is a responsive and stable framework, it's here to stay. Tailwind can help
+        you save time and change the way you design websites, and so taking the time to test it out is worthwhile.</p>
+      </div>
     </section>
   </main>
-  <footer>&copy; Your name and year</footer>
+  <footer class="flex justify-center">&copy; Bryan Velasco 2022</footer>
 </body>
 </html>
